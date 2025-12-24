@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ceramic Toilet",
+      "description": "A modern ceramic toilet with a sleek design and efficient flushing system.",
+      "image": "images/ceramic-toilet.jpg",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "name": "Wall-Mounted Sink",
+      "description": "Stylish wall-mounted sink that saves space and adds elegance to your bathroom.",
+      "image": "images/wall-mounted-sink.jpg",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "Bathtub",
+      "description": "Luxurious bathtub designed for comfort and relaxation, perfect for any bathroom.",
+      "image": "images/bathtub.jpg",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "name": "Shower Set",
+      "description": "Complete shower set with modern fixtures and adjustable settings for a perfect shower experience.",
+      "image": "images/shower-set.jpg",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Bathroom Vanity",
+      "description": "Elegant bathroom vanity with ample storage and a stylish countertop.",
+      "image": "images/bathroom-vanity.jpg",
+      "price": 400
+    }
+  ]
+}

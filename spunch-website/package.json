@@ -1,0 +1,21 @@
+{
+  "name": "spunch-website",
+  "version": "1.0.0",
+  "description": "A modern, professional website for Spunch, a luxury sanitary ware brand by Bhagwati Steels.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "keywords": [
+    "sanitary",
+    "ware",
+    "luxury",
+    "design",
+    "spunch",
+    "bhagwati",
+    "steels"
+  ],
+  "author": "Bhagwati Steels",
+  "license": "ISC"
+}
